@@ -10,17 +10,32 @@
 
 ## 🏁 About Me
 
+<table>
+<tr>
+<td width="50%">
+
 ```
-I am a passionate software developer with a versatile skill set,
-thriving in diverse domains—from game development to data-centric applications.
+  "name":     "Jhostin Mapura",
+  "location": "Colombia 🌎",
+  "focus":    "Motorsport + Data",
+  "learning": ["FastF1", "Data Analysis",
+               "Machine Learning"],
+  "status":   "🟢 Open to collaborations"
 
-My current focus lies in building analytical software for the motorsport industry,
-where I design clean, scalable, and maintainable code.
-
-I take pride in writing solutions that are not only efficient but also easy for teams to understand and build upon.
-
-I am a lifelong learner, constantly exploring new technologies and methodologies to bring fresh, innovative ideas to my team.
 ```
+
+</td>
+<td width="50%">
+
+- 🏎️ Passionate software developer with experience in game development and data-centric applications
+- 📊 Turning race data into insights  
+- 🔧 Clean, scalable code
+- 🚀 Lifelong learner, always exploring new technologies and methodologies, committed to bringing fresh, innovative ideas to the team
+- 🎯 Write solutions that are efficient, readable, and team-friendly
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -45,7 +60,8 @@ I am a lifelong learner, constantly exploring new technologies and methodologies
 |----------|-------------|------|
 | 🔴 **lap_time_analytics** | simulator using F1 car telemetry, track data, and GP logs to replicate every race phase. | Python, Git |
 
-> 💡 _Actualmente aprendiendo — todos los proyectos son WIP (Work In Progress)_
+
+> 🔧 _Currently learning — all projects are WIP (Work In Progress). Growing one commit at a time._
 
 ---
 
