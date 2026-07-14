@@ -1,17 +1,14 @@
 <div align="center">
-<!-- ═══════════════════════════════════════════ -->
-<!--   ENCABEZADO                               -->
-<!-- ═══════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8002D&height=200&section=header&text=[Jhostin Mapura]&fontSize=60&fontAlignY=38&desc=Formula+1+%7C+Data+%7C+Engineering&descAlignY=60&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8002D&height=200&section=header&text=Jhostin+Mapura&fontSize=60&fontAlignY=38&desc=Motorsport+%7C+Data+%7C+Software&descAlignY=60&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=E8002D&center=true&vCenter=true&width=600&lines=[Never Give Up On Your Dreams];Formula+1+Data+Engineer;Always+learning%2C+always+racing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=E8002D&center=true&vCenter=true&width=600&lines=Never+Give+Up+On+Your+Dreams)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## 🏁 Sobre mí
+## 🏁 About Me
 
 ```python
 pilot = {
@@ -27,10 +24,18 @@ pilot = {
 
 ---
 
-## ⚙️ Stack Técnico
+## ⚙️ Technical Stack
 
-<!-- Aquí van tus badges — edita según tus tecnologías -->
-<!-- Selecciona tus tecnologías en la pestaña anterior -->
+![Python](https://img.shields.io/badge/Python-python-informational?style=flat-square&logo=python&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-html5-informational?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C++-cplusplus-informational?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C#-csharp-informational?style=flat-square&logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-docker-informational?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-githubactions-informational?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-linux-informational?style=flat-square&logo=linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-mysql-informational?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
@@ -38,9 +43,8 @@ pilot = {
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
-| 🔴 **[NOMBRE PROYECTO 1]** | [Descripción breve] | Python, FastF1 |
-| 🟡 **[NOMBRE PROYECTO 2]** | [Descripción breve] | [Tech] |
-| 🟢 **[NOMBRE PROYECTO 3]** | [Descripción breve] | [Tech] |
+| 🔴 **lap_time_analytics** | simulator using F1 car telemetry, track data, and GP logs to replicate every race phase. | Python, Git |
+
 
 > 💡 _Actualmente aprendiendo — todos los proyectos son WIP (Work In Progress)_
 
@@ -50,15 +54,15 @@ pilot = {
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=[TU_USERNAME]&show_icons=true&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&icon_color=FFD700&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jmxy19&show_icons=true&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&icon_color=FFD700&text_color=FFFFFF" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USERNAME]&layout=compact&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmxy19&layout=compact&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&text_color=FFFFFF" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=[TU_USERNAME]&theme=dark&hide_border=true&background=15151E&stroke=E8002D&ring=FFD700&fire=E8002D&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=jmxy19&theme=dark&hide_border=true&background=15151E&stroke=E8002D&ring=FFD700&fire=E8002D&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
 
 </div>
 
