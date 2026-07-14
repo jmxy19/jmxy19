@@ -39,7 +39,7 @@ I am a lifelong learner, constantly exploring new technologies and methodologies
 
 ---
 
-## 🏎️ Proyectos de Fórmula 1
+## 🏎️ Proyects
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
@@ -50,7 +50,7 @@ I am a lifelong learner, constantly exploring new technologies and methodologies
 
 ---
 
-## 📊 Estadísticas GitHub
+## 📊 Stads GitHub
 
 <div align="center">
 
@@ -68,13 +68,12 @@ I am a lifelong learner, constantly exploring new technologies and methodologies
 
 ---
 
-## 🌐 Contacto
+## 🌐 Contact
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[TU_USUARIO_LINKEDIN])
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/[TU_USUARIO_TWITTER])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[TU_EMAIL])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jhostin-mapura-0a77b4276)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhostinmapura71@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-15151E?style=for-the-badge&logo=google-chrome&logoColor=E8002D)](https://[TU_WEB])
 
 </div>
