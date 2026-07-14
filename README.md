@@ -1,17 +1,11 @@
-<!-- ================================================== -->
-<!-- 🏎️  PERFIL GITHUB — FORMULA 1 EDITION               -->
-<!-- Reemplaza todo lo que está entre [ ]                  -->
-<!-- ================================================== -->
-
 <div align="center">
-
 <!-- ═══════════════════════════════════════════ -->
 <!--   ENCABEZADO                               -->
 <!-- ═══════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E8002D&height=200&section=header&text=[TU+NOMBRE]&fontSize=60&fontAlignY=38&desc=Formula+1+%7C+Data+%7C+Engineering&descAlignY=60&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E8002D&height=200&section=header&text=[Jhostin Mapura]&fontSize=60&fontAlignY=38&desc=Formula+1+%7C+Data+%7C+Engineering&descAlignY=60&fontColor=ffffff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=E8002D&center=true&vCenter=true&width=600&lines=[TU+LEMA+AQUÍ];Formula+1+Data+Engineer;Always+learning%2C+always+racing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=1000&color=E8002D&center=true&vCenter=true&width=600&lines=[Never Give Up On Your Dreams];Formula+1+Data+Engineer;Always+learning%2C+always+racing)](https://git.io/typing-svg)
 
 </div>
 
