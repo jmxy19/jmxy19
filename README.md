@@ -26,37 +26,36 @@ I am a lifelong learner, constantly exploring new technologies and methodologies
 
 ## ⚙️ Technical Stack
 
-![Python](https://img.shields.io/badge/Python-python-informational?style=flat-square&logo=python&logoColor=white)
-![HTML/CSS](https://img.shields.io/badge/HTML/CSS-html5-informational?style=flat-square&logo=html5&logoColor=white)
-![C++](https://img.shields.io/badge/C++-cplusplus-informational?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C#-csharp-informational?style=flat-square&logo=csharp&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-docker-informational?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-githubactions-informational?style=flat-square&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-linux-informational?style=flat-square&logo=linux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-ubuntu-informational?style=flat-square&logo=ubuntu&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-mysql-informational?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 ---
 
-## 🏎️ Proyects
+## 🏎️ Projects
 
 | Proyecto | Descripción | Tech |
 |----------|-------------|------|
 | 🔴 **lap_time_analytics** | simulator using F1 car telemetry, track data, and GP logs to replicate every race phase. | Python, Git |
 
-
 > 💡 _Actualmente aprendiendo — todos los proyectos son WIP (Work In Progress)_
 
 ---
 
-## 📊 Stads GitHub
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jmxy19&show_icons=true&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&icon_color=FFD700&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jmxy19&show_icons=true&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&icon_color=FFD700&text_color=FFFFFF&cache_seconds=1800" />
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmxy19&layout=compact&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmxy19&layout=compact&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&text_color=FFFFFF&cache_seconds=1800" />
 
 </div>
 
@@ -72,9 +71,8 @@ I am a lifelong learner, constantly exploring new technologies and methodologies
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/jhostin-mapura-0a77b4276)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jhostin-mapura-0a77b4276)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhostinmapura71@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-15151E?style=for-the-badge&logo=google-chrome&logoColor=E8002D)](https://[TU_WEB])
 
 </div>
 
