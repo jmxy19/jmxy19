@@ -10,16 +10,16 @@
 
 ## 🏁 About Me
 
-```python
-pilot = {
-    "nombre":    "[TU NOMBRE]",
-    "ubicacion": "[TU CIUDAD, PAÍS]",
-    "foco":      "Formula 1 + Data Engineering",
-    "aprendiendo": ["[TECNOLOGÍA 1]", "[TECNOLOGÍA 2]"],
-    "proyectos": "F1 telemetry, race predictions, data viz",
-    "contacto":  "[TU EMAIL O LINKEDIN]",
-    "estado":    "🟢 Abierto a colaboraciones"
-}
+```
+I am a passionate software developer with a versatile skill set,
+thriving in diverse domains—from game development to data-centric applications.
+
+My current focus lies in building analytical software for the motorsport industry,
+where I design clean, scalable, and maintainable code.
+
+I take pride in writing solutions that are not only efficient but also easy for teams to understand and build upon.
+
+I am a lifelong learner, constantly exploring new technologies and methodologies to bring fresh, innovative ideas to my team.
 ```
 
 ---
