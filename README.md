@@ -73,13 +73,7 @@
 
 ## 📊 GitHub Stats
 
-<div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=jmxy19&show_icons=true&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&icon_color=FFD700&text_color=FFFFFF&cache_seconds=1800" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmxy19&layout=compact&theme=radical&hide_border=true&bg_color=15151E&title_color=E8002D&text_color=FFFFFF&cache_seconds=1800" />
-
-</div>
 
 <div align="center">
 
