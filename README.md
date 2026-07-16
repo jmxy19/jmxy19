@@ -10,17 +10,22 @@
 
 ## 🏁 About Me
 
-<table>
+<table border="0">
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-```
-  "name":     "Jhostin Mapura",
+```json
+{
+  "name": "Jhostin Mapura",
   "location": "Colombia 🌎",
-  "focus":    "Motorsport + Data",
-  "learning": ["FastF1", "Data Analysis",
-               "Machine Learning"],
-  "status":   "🟢 Open to collaborations"
+  "focus": "Motorsport + Data",
+  "learning": [
+    "FastF1", 
+    "Data Analysis",
+    "Machine Learning"
+  ],
+  "status": "🟢 Open to collaborations"
+}
 
 ```
 
