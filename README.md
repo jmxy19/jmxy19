@@ -14,19 +14,20 @@
 <tr>
 <td width="50%" valign="top">
 
-```json
-{
-  "name": "Jhostin Mapura",
-  "location": "Colombia 🌎",
-  "focus": "Motorsport + Data",
-  "learning": [
-    "FastF1", 
-    "Data Analysis",
-    "Machine Learning"
-  ],
-  "status": "🟢 Open to collaborations"
-}
+```python
 
+  Name: "Jhostin Mapura"
+
+  Location: "Colombia 🌎"
+
+  Focus: "Motorsport, Data, Video Games"
+
+  Learning: 
+            "FastF1"
+            "Data Analysis"
+            "Machine Learning"
+  
+  Status: "🟢 Open to collaborations"
 ```
 
 </td>
