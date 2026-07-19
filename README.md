@@ -71,18 +71,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=jmxy19&theme=dark&hide_border=true&background=15151E&stroke=E8002D&ring=FFD700&fire=E8002D&currStreakLabel=FFFFFF)](https://git.io/streak-stats)
-
-</div>
-
----
-
 ## 🌐 Contact
 
 <div align="center">
